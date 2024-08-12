@@ -9,7 +9,7 @@ A simple todo app built with django
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-$ git clone https://github.com/shreys7/django-todo.git
+$ git clone https://github.com/DandaleAman/Todo_App_Docker_Project.git 
 ```
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
@@ -39,4 +39,4 @@ $ python manage.py runserver
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
-Cheers and Happy Coding :)
+Cheers and Happy Learning :)
